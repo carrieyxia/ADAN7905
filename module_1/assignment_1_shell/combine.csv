@@ -1,0 +1,692 @@
+,Municipality,Type[1],County[2],Form of government[1],Population (2020)[2],Total area,,,Year established[3]
+0,Abington,Town,Plymouth,Open town meeting,17062,9.9 sq mi ,25.64 km2),,1712
+1,Acton,Town,Middlesex,Open town meeting,24021,20.3 sq mi ,52.58 km2),,1735
+2,Acushnet,Town,Bristol,Open town meeting,10559,19.0 sq mi ,49.21 km2),,1860
+3,Adams,Town,Berkshire,Representative town meeting,8166,23.0 sq mi ,59.57 km2),,1778
+4,Agawam,City[a],Hampden,Mayor-Council,28692,24.3 sq mi ,62.94 km2),,1855
+5,Alford,Town,Berkshire,Open town meeting,486,11.5 sq mi ,29.78 km2),,1773
+6,Amesbury,City,Essex,Mayor-Council,17366,13.7 sq mi ,35.48 km2),,1668
+7,Amherst,City[a][5],Hampshire,Manager-Council,39263,27.7 sq mi ,71.74 km2),,1775
+8,Andover,Town,Essex,Open town meeting,36569,32.1 sq mi ,83.14 km2),,1646
+9,Aquinnah,Town,Dukes,Open town meeting,439,40.8 sq mi ,105.67 km2),,1870
+10,Arlington,Town,Middlesex,Representative town meeting,46308,5.5 sq mi ,14.24 km2),,1807
+11,Ashburnham,Town,Worcester,Open town meeting,6315,41.0 sq mi ,106.19 km2),,1765
+12,Ashby,Town,Middlesex,Open town meeting,3193,24.2 sq mi ,62.68 km2),,1767
+13,Ashfield,Town,Franklin,Open town meeting,1695,40.3 sq mi ,104.38 km2),,1765
+14,Ashland,Town,Middlesex,Open town meeting,18832,12.9 sq mi ,33.41 km2),,1846
+15,Athol,Town,Worcester,Open town meeting,11945,33.4 sq mi ,86.51 km2),,1762
+16,Attleboro,City,Bristol,Mayor-Council,46461,27.8 sq mi ,72.00 km2),,1694
+17,Auburn,Town,Worcester,Representative town meeting,16889,16.4 sq mi ,42.48 km2),,1778
+18,Avon,Town,Norfolk,Open town meeting,4777,4.6 sq mi ,11.91 km2),,1888
+19,Ayer,Town,Middlesex,Open town meeting,8479,9.6 sq mi ,24.86 km2),,1871
+20,Barnstable,City[a],Barnstable (seat),Manager-Council,48916,76.5 sq mi ,198.13 km2),,1639
+21,Barre,Town,Worcester,Open town meeting,5530,44.6 sq mi ,115.51 km2),,1774
+22,Becket,Town,Berkshire,Open town meeting,1931,47.8 sq mi ,123.80 km2),,1765
+23,Bedford,Town,Middlesex,Open town meeting,14383,13.9 sq mi ,36.00 km2),,1729
+24,Belchertown,Town,Hampshire,Open town meeting,15350,55.4 sq mi ,143.49 km2),,1761
+25,Bellingham,Town,Norfolk,Open town meeting,16945,19.0 sq mi ,49.21 km2),,1719
+26,Belmont,Town,Middlesex,Representative town meeting,27295,4.7 sq mi ,12.17 km2),,1859
+27,Berkley,Town,Bristol,Open town meeting,6764,17.4 sq mi ,45.07 km2),,1735
+28,Berlin,Town,Worcester,Open town meeting,3158,13.1 sq mi ,33.93 km2),,1812
+29,Bernardston,Town,Franklin,Open town meeting,2102,23.4 sq mi ,60.61 km2),,1762
+30,Beverly,City,Essex,Mayor-Council,42670,22.6 sq mi ,58.53 km2),,1668
+31,Billerica,Town,Middlesex,Representative town meeting,42119,26.4 sq mi ,68.38 km2),,1655
+32,Blackstone,Town,Worcester,Open town meeting,9208,11.2 sq mi ,29.01 km2),,1845
+33,Blandford,Town,Hampden,Open town meeting,1215,53.4 sq mi ,138.31 km2),,1741
+34,Bolton,Town,Worcester,Open town meeting,5665,20.0 sq mi ,51.80 km2),,1738
+35,Boston,City,Suffolk (seat),Mayor-Council,675647,89.6 sq mi ,232.06 km2),,1630
+36,Bourne,Town,Barnstable,Open town meeting,20452,52.9 sq mi ,137.01 km2),,1884
+37,Boxborough,Town,Middlesex,Open town meeting,5506,10.4 sq mi ,26.94 km2),,1835
+38,Boxford,Town,Essex,Open town meeting,8203,24.4 sq mi ,63.20 km2),,1685
+39,Boylston,Town,Worcester,Open town meeting,4849,19.7 sq mi ,51.02 km2),,1785
+40,Braintree,City[a],Norfolk,Mayor-Council,39143,14.6 sq mi ,37.81 km2),,1640
+41,Brewster,Town,Barnstable,Open town meeting,10318,25.4 sq mi ,65.79 km2),,1803
+42,Bridgewater,City[a],Plymouth,Manager-Council,28633,28.2 sq mi ,73.04 km2),,1656
+43,Brimfield,Town,Hampden,Open town meeting,3694,35.2 sq mi ,91.17 km2),,1731
+44,Brockton,City,Plymouth (seat),Mayor-Council,105643,21.5 sq mi ,55.68 km2),,1821
+45,Brookfield,Town,Worcester,Open town meeting,3439,16.6 sq mi ,42.99 km2),,1718
+46,Brookline,Town,Norfolk,Representative town meeting,63191,6.8 sq mi ,17.61 km2),,1705
+47,Buckland,Town,Franklin,Open town meeting,1816,19.9 sq mi ,51.54 km2),,1779
+48,Burlington,Town,Middlesex,Representative town meeting,26377,11.9 sq mi ,30.82 km2),,1799
+49,Cambridge,City,Middlesex (seat),Mayor-Manager-Council,118403,7.1 sq mi ,18.39 km2),,1636
+50,Canton,Town,Norfolk,Open town meeting,24370,19.6 sq mi ,50.76 km2),,1797
+51,Carlisle,Town,Middlesex,Open town meeting,5237,15.6 sq mi ,40.40 km2),,1780
+52,Carver,Town,Plymouth,Open town meeting,11645,39.7 sq mi ,102.82 km2),,1790
+53,Charlemont,Town,Franklin,Open town meeting,1185,26.4 sq mi ,68.38 km2),,1765
+54,Charlton,Town,Worcester,Open town meeting,13315,43.8 sq mi ,113.44 km2),,1755[6]
+55,Chatham,Town,Barnstable,Open town meeting,6594,24.4 sq mi ,63.20 km2),,1712
+56,Chelmsford,Town,Middlesex,Representative town meeting,36392,23.2 sq mi ,60.09 km2),,1655
+57,Chelsea,City,Suffolk,Manager-Council,40787,2.5 sq mi ,6.47 km2),,1739
+58,Cheshire,Town,Berkshire,Open town meeting,3258,27.5 sq mi ,71.22 km2),,1793
+59,Chester,Town,Hampden,Open town meeting,1228,37.2 sq mi ,96.35 km2),,1765
+60,Chesterfield,Town,Hampshire,Open town meeting,1186,31.2 sq mi ,80.81 km2),,1762
+61,Chicopee,City,Hampden,Mayor-Council,55560,23.9 sq mi ,61.90 km2),,1848
+62,Chilmark,Town,Dukes,Open town meeting,1212,100.4 sq mi ,260.03 km2),,1714
+63,Clarksburg,Town,Berkshire,Open town meeting,1657,12.8 sq mi ,33.15 km2),,1798
+64,Clinton,Town,Worcester,Open town meeting,15428,7.3 sq mi ,18.91 km2),,1850
+65,Cohasset,Town,Norfolk,Open town meeting,8381,31.4 sq mi ,81.33 km2),,1775
+66,Colrain,Town,Franklin,Open town meeting,1606,43.4 sq mi ,112.41 km2),,1761
+67,Concord,Town,Middlesex,Open town meeting,18491,25.9 sq mi ,67.08 km2),,1635
+68,Conway,Town,Franklin,Open town meeting,1761,37.9 sq mi ,98.16 km2),,1775
+69,Cummington,Town,Hampshire,Open town meeting,829,23.1 sq mi ,59.83 km2),,1779
+70,Dalton,Town,Berkshire,Open town meeting,6330,21.9 sq mi ,56.72 km2),,1784
+71,Danvers,Town,Essex,Representative town meeting,28087,14.1 sq mi ,36.52 km2),,1775
+72,Dartmouth,Town,Bristol,Representative town meeting,33783,97.5 sq mi ,252.52 km2),,1664
+73,Dedham,Town,Norfolk (seat),Representative town meeting,25364,10.6 sq mi ,27.45 km2),,1636
+74,Deerfield,Town,Franklin,Open town meeting,5090,33.4 sq mi ,86.51 km2),,1677
+75,Dennis,Town,Barnstable,Open town meeting,14674,22.3 sq mi ,57.76 km2),,1793
+76,Dighton,Town,Bristol,Open town meeting,8101,22.6 sq mi ,58.53 km2),,1712
+77,Douglas,Town,Worcester,Open town meeting,8983,37.7 sq mi ,97.64 km2),,1775
+78,Dover,Town,Norfolk,Open town meeting,5923,15.4 sq mi ,39.89 km2),,1836
+79,Dracut,Town,Middlesex,Open town meeting,32617,21.4 sq mi ,55.43 km2),,1701
+80,Dudley,Town,Worcester,Open town meeting,11921,22.1 sq mi ,57.24 km2),,1732
+81,Dunstable,Town,Middlesex,Open town meeting,3358,16.7 sq mi ,43.25 km2),,1673
+82,Duxbury,Town,Plymouth,Open town meeting,16090,37.6 sq mi ,97.38 km2),,1637
+83,East Bridgewater,Town,Plymouth,Open town meeting,14440,17.5 sq mi ,45.32 km2),,1823
+84,East Brookfield,Town,Worcester,Open town meeting,2224,10.4 sq mi ,26.94 km2),,1920
+85,East Longmeadow,City,Hampden,Manager-Council,16430,13.0 sq mi ,33.67 km2),,1894
+86,Eastham,Town,Barnstable,Open town meeting,5752,25.7 sq mi ,66.56 km2),,1646
+87,Easthampton,City,Hampshire,Mayor-Council,16211,13.6 sq mi ,35.22 km2),,1809
+88,Easton,Town,Bristol,Open town meeting,25058,29.2 sq mi ,75.63 km2),,1725
+89,Edgartown,Town,Dukes (seat),Open town meeting,5168,122.7 sq mi ,317.79 km2),,1671
+90,Egremont,Town,Berkshire,Open town meeting,1372,18.9 sq mi ,48.95 km2),,1775
+91,Erving,Town,Franklin,Open town meeting,1665,14.4 sq mi ,37.30 km2),,1838
+92,Essex,Town,Essex,Open town meeting,3675,15.9 sq mi ,41.18 km2),,1819
+93,Everett,City,Middlesex,Mayor-Council,49075,3.7 sq mi ,9.58 km2),,1870
+94,Fairhaven,Town,Bristol,Representative town meeting,15924,14.1 sq mi ,36.52 km2),,1812
+95,Fall River,City,Bristol,Mayor-Council,94000,40.2 sq mi ,104.12 km2),,1803
+96,Falmouth,Town,Barnstable,Representative town meeting,32517,54.4 sq mi ,140.90 km2),,1686
+97,Fitchburg,City,Worcester,Mayor-Council,41946,28.1 sq mi ,72.78 km2),,1764
+98,Florida,Town,Berkshire,Open town meeting,694,24.6 sq mi ,63.71 km2),,1805
+99,Foxborough,Town,Norfolk,Open town meeting,18618,20.9 sq mi ,54.13 km2),,1778
+100,Framingham,City,Middlesex,Mayor-Council,72362,26.5 sq mi ,68.63 km2),,1700
+101,Franklin,City[a],Norfolk,Administrator-Council,33261,27.0 sq mi ,69.93 km2),,1778
+102,Freetown,Town,Bristol,Open town meeting,9206,38.3 sq mi ,99.20 km2),,1683
+103,Gardner,City,Worcester,Mayor-Council,21287,23.0 sq mi ,59.57 km2),,1785
+104,Georgetown,Town,Essex,Open town meeting,8470,13.2 sq mi ,34.19 km2),,1838
+105,Gill,Town,Franklin,Open town meeting,1551,14.8 sq mi ,38.33 km2),,1793
+106,Gloucester,City,Essex,Mayor-Council,29729,41.5 sq mi ,107.48 km2),,1623
+107,Goshen,Town,Hampshire,Open town meeting,970,17.7 sq mi ,45.84 km2),,1781
+108,Gosnold,Town,Dukes,Open town meeting,70,140.2 sq mi ,363.12 km2),,1864
+109,Grafton,Town,Worcester,Open town meeting,19664,23.3 sq mi ,60.35 km2),,1735
+110,Granby,Town,Hampshire,Open town meeting,6110,28.1 sq mi ,72.78 km2),,1768
+111,Granville,Town,Hampden,Open town meeting,1538,43.0 sq mi ,111.37 km2),,1775
+112,Great Barrington,Town,Berkshire,Open town meeting,7172,45.8 sq mi ,118.62 km2),,1761
+113,Greenfield,City[a],Franklin (seat),Mayor-Council,17768,21.9 sq mi ,56.72 km2),,1775
+114,Groton,Town,Middlesex,Open town meeting,11315,33.7 sq mi ,87.28 km2),,1655
+115,Groveland,Town,Essex,Open town meeting,6752,9.4 sq mi ,24.35 km2),,1850
+116,Hadley,Town,Hampshire,Open town meeting,5325,24.6 sq mi ,63.71 km2),,1661
+117,Halifax,Town,Plymouth,Open town meeting,7749,17.3 sq mi ,44.81 km2),,1734
+118,Hamilton,Town,Essex,Open town meeting,7561,14.9 sq mi ,38.59 km2),,1793
+119,Hampden,Town,Hampden,Open town meeting,4966,19.7 sq mi ,51.02 km2),,1878
+120,Hancock,Town,Berkshire,Open town meeting,757,35.8 sq mi ,92.72 km2),,1776
+121,Hanover,Town,Plymouth,Open town meeting,14833,15.7 sq mi ,40.66 km2),,1727
+122,Hanson,Town,Plymouth,Open town meeting,10639,15.7 sq mi ,40.66 km2),,1820
+123,Hardwick,Town,Worcester,Open town meeting,2667,40.8 sq mi ,105.67 km2),,1739
+124,Harvard,Town,Worcester,Open town meeting,6851,27.0 sq mi ,69.93 km2),,1732
+125,Harwich,Town,Barnstable,Open town meeting,13440,33.1 sq mi ,85.73 km2),,1694
+126,Hatfield,Town,Hampshire,Open town meeting,3352,16.8 sq mi ,43.51 km2),,1670
+127,Haverhill,City,Essex,Mayor-Council,67787,35.7 sq mi ,92.46 km2),,1641
+128,Hawley,Town,Franklin,Open town meeting,353,30.9 sq mi ,80.03 km2),,1792
+129,Heath,Town,Franklin,Open town meeting,723,24.9 sq mi ,64.49 km2),,1785
+130,Hingham,Town,Plymouth,Open town meeting,24284,26.3 sq mi ,68.12 km2),,1635
+131,Hinsdale,Town,Berkshire,Open town meeting,1919,21.7 sq mi ,56.20 km2),,1804
+132,Holbrook,Town,Norfolk,Representative town meeting,11405,7.4 sq mi ,19.17 km2),,1872
+133,Holden,Town,Worcester,Open town meeting,19905,36.2 sq mi ,93.76 km2),,1741
+134,Holland,Town,Hampden,Open town meeting,2603,13.1 sq mi ,33.93 km2),,1835
+135,Holliston,Town,Middlesex,Open town meeting,14996,19.0 sq mi ,49.21 km2),,1724
+136,Holyoke,City,Hampden,Mayor-Council,38238,22.8 sq mi ,59.05 km2),,1850
+137,Hopedale,Town,Worcester,Open town meeting,6017,5.3 sq mi ,13.73 km2),,1886
+138,Hopkinton,Town,Middlesex,Open town meeting,18758,28.2 sq mi ,73.04 km2),,1715
+139,Hubbardston,Town,Worcester,Open town meeting,4328,42.0 sq mi ,108.78 km2),,1775
+140,Hudson,Town,Middlesex,Open town meeting,20092,11.8 sq mi ,30.56 km2),,1866
+141,Hull,Town,Plymouth,Open town meeting,10072,26.9 sq mi ,69.67 km2),,1644
+142,Huntington,Town,Hampshire,Open town meeting,2094,26.8 sq mi ,69.41 km2),,1775
+143,Ipswich,Town,Essex,Open town meeting,13785,42.5 sq mi ,110.07 km2),,1634
+144,Kingston,Town,Plymouth,Open town meeting,13708,20.5 sq mi ,53.09 km2),,1726
+145,Lakeville,Town,Plymouth,Open town meeting,11523,36.1 sq mi ,93.50 km2),,1853
+146,Lancaster,Town,Worcester,Open town meeting,8441,28.2 sq mi ,73.04 km2),,1653
+147,Lanesborough,Town,Berkshire,Open town meeting,3038,29.6 sq mi ,76.66 km2),,1765
+148,Lawrence,City,Essex (seat),Mayor-Council,89143,7.4 sq mi ,19.17 km2),,1847
+149,Lee,Town,Berkshire,Open town meeting,5788,27.0 sq mi ,69.93 km2),,1777
+150,Leicester,Town,Worcester,Open town meeting,11087,24.7 sq mi ,63.97 km2),,1714
+151,Lenox,Town,Berkshire,Open town meeting,5095,21.7 sq mi ,56.20 km2),,1775
+152,Leominster,City,Worcester,Mayor-Council,43782,29.7 sq mi ,76.92 km2),,1740
+153,Leverett,Town,Franklin,Open town meeting,1865,23.0 sq mi ,59.57 km2),,1774
+154,Lexington,Town,Middlesex,Representative town meeting,34454,16.5 sq mi ,42.73 km2),,1713
+155,Leyden,Town,Franklin,Open town meeting,734,18.0 sq mi ,46.62 km2),,1809
+156,Lincoln,Town,Middlesex,Open town meeting,7014,15.0 sq mi ,38.85 km2),,1754
+157,Littleton,Town,Middlesex,Open town meeting,10141,17.6 sq mi ,45.58 km2),,1715
+158,Longmeadow,Town,Hampden,Open town meeting,15853,9.7 sq mi ,25.12 km2),,1783
+159,Lowell,City,Middlesex (seat),Mayor-Manager-Council,115554,14.5 sq mi ,37.55 km2),,1826
+160,Ludlow,Town,Hampden,Representative town meeting,21002,28.2 sq mi ,73.04 km2),,1775
+161,Lunenburg,Town,Worcester,Open town meeting,11782,27.7 sq mi ,71.74 km2),,1728
+162,Lynn,City,Essex,Mayor-Council,101253,13.5 sq mi ,34.96 km2),,1629
+163,Lynnfield,Town,Essex,Open town meeting,13000,10.5 sq mi ,27.19 km2),,1814
+164,Malden,City,Middlesex,Mayor-Council,66263,5.1 sq mi ,13.21 km2),,1649
+165,Manchester-by-the-Sea,Town,Essex,Open town meeting,5395,18.3 sq mi ,47.40 km2),,1645
+166,Mansfield,Town,Bristol,Open town meeting,23860,20.7 sq mi ,53.61 km2),,1775
+167,Marblehead,Town,Essex,Open town meeting,20441,19.6 sq mi ,50.76 km2),,1629
+168,Marion,Town,Plymouth,Open town meeting,5347,26.1 sq mi ,67.60 km2),,1852
+169,Marlborough,City,Middlesex,Mayor-Council,41793,22.1 sq mi ,57.24 km2),,1660
+170,Marshfield,Town,Plymouth,Open town meeting,25825,31.7 sq mi ,82.10 km2),,1640
+171,Mashpee,Town,Barnstable,Open town meeting,15060,27.2 sq mi ,70.45 km2),,1870
+172,Mattapoisett,Town,Plymouth,Open town meeting,6508,24.2 sq mi ,62.68 km2),,1857
+173,Maynard,Town,Middlesex,Open town meeting,10746,5.4 sq mi ,13.99 km2),,1871
+174,Medfield,Town,Norfolk,Open town meeting,12799,14.6 sq mi ,37.81 km2),,1651
+175,Medford,City,Middlesex,Mayor-Council,59659,8.7 sq mi ,22.53 km2),,1630
+176,Medway,Town,Norfolk,Open town meeting,13115,11.5 sq mi ,29.78 km2),,1713
+177,Melrose,City,Middlesex,Mayor-Council,29817,4.8 sq mi ,12.43 km2),,1850
+178,Mendon,Town,Worcester,Open town meeting,6228,18.3 sq mi ,47.40 km2),,1667
+179,Merrimac,Town,Essex,Open town meeting,6723,8.8 sq mi ,22.79 km2),,1876
+180,Methuen,City[a],Essex,Mayor-Council,53039,23.0 sq mi ,59.57 km2),,1725
+181,Middleborough,Town,Plymouth,Open town meeting,24245,72.2 sq mi ,187.00 km2),,1669
+182,Middlefield,Town,Hampshire,Open town meeting,385,24.2 sq mi ,62.68 km2),,1783
+183,Middleton,Town,Essex,Open town meeting,9779,14.5 sq mi ,37.55 km2),,1728
+184,Milford,Town,Worcester,Representative town meeting,30379,14.9 sq mi ,38.59 km2),,1780
+185,Millbury,Town,Worcester,Open town meeting,13831,16.3 sq mi ,42.22 km2),,1813
+186,Millis,Town,Norfolk,Open town meeting,8460,12.3 sq mi ,31.86 km2),,1885
+187,Millville,Town,Worcester,Open town meeting,3174,5.0 sq mi ,12.95 km2),,1916
+188,Milton,Town,Norfolk,Representative town meeting,28630,13.3 sq mi ,34.45 km2),,1662
+189,Monroe,Town,Franklin,Open town meeting,118,10.8 sq mi ,27.97 km2),,1822
+190,Monson,Town,Hampden,Open town meeting,8150,44.8 sq mi ,116.03 km2),,1775
+191,Montague,Town,Franklin,Representative town meeting,8580,31.5 sq mi ,81.58 km2),,1775
+192,Monterey,Town,Berkshire,Open town meeting,1095,27.4 sq mi ,70.97 km2),,1847
+193,Montgomery,Town,Hampden,Open town meeting,819,15.2 sq mi ,39.37 km2),,1780
+194,Mount Washington,Town,Berkshire,Open town meeting,160,22.4 sq mi ,58.02 km2),,1779
+195,Nahant,Town,Essex,Open town meeting,3334,15.5 sq mi ,40.14 km2),,1853
+196,Nantucket,Town,Nantucket (seat),Open town meeting,14255,105.3 sq mi ,272.73 km2),,1671
+197,Natick,Town,Middlesex,Representative town meeting,37006,16.1 sq mi ,41.70 km2),,1781
+198,Needham,Town,Norfolk,Representative town meeting,32091,12.7 sq mi ,32.89 km2),,1711
+199,New Ashford,Town,Berkshire,Open town meeting,250,13.5 sq mi ,34.96 km2),,1835
+200,New Bedford,City,Bristol,Mayor-Council,101079,24.1 sq mi ,62.42 km2),,1787
+201,New Braintree,Town,Worcester,Open town meeting,996,20.9 sq mi ,54.13 km2),,1775
+202,New Marlborough,Town,Berkshire,Open town meeting,1528,47.9 sq mi ,124.06 km2),,1775
+203,New Salem,Town,Franklin,Open town meeting,983,58.6 sq mi ,151.77 km2),,1775
+204,Newbury,Town,Essex,Open town meeting,6716,26.3 sq mi ,68.12 km2),,1635
+205,Newburyport,City,Essex,Mayor-Council,18289,10.7 sq mi ,27.71 km2),,1764
+206,Newton,City,Middlesex,Mayor-Council[7],88923,18.2 sq mi ,47.14 km2),,1688
+207,Norfolk,Town,Norfolk,Open town meeting,11662,15.2 sq mi ,39.37 km2),,1870
+208,North Adams,City,Berkshire,Mayor-Council,12961,20.6 sq mi ,53.35 km2),,1878
+209,North Andover,Town,Essex,Open town meeting,30915,27.8 sq mi ,72.00 km2),,1855
+210,North Attleborough,City[a],Bristol,Manager-Council,30834,19.1 sq mi ,49.47 km2),,1887
+211,North Brookfield,Town,Worcester,Open town meeting,4735,21.7 sq mi ,56.20 km2),,1812
+212,North Reading,Town,Middlesex,Open town meeting,15554,13.5 sq mi ,34.96 km2),,1853
+213,Northampton,City,Hampshire (seat),Mayor-Council,29571,35.8 sq mi ,92.72 km2),,1656
+214,Northborough,Town,Worcester,Open town meeting,15741,18.8 sq mi ,48.69 km2),,1775
+215,Northbridge,Town,Worcester,Open town meeting,16335,18.1 sq mi ,46.88 km2),,1775
+216,Northfield,Town,Franklin,Open town meeting,2866,35.4 sq mi ,91.69 km2),,1723
+217,Norton,Town,Bristol,Open town meeting,19202,29.8 sq mi ,77.18 km2),,1711
+218,Norwell,Town,Plymouth,Open town meeting,11351,21.2 sq mi ,54.91 km2),,1849
+219,Norwood,Town,Norfolk,Representative town meeting,31611,10.6 sq mi ,27.45 km2),,1872
+220,Oak Bluffs,Town,Dukes,Open town meeting,5341,26.0 sq mi ,67.34 km2),,1880
+221,Oakham,Town,Worcester,Open town meeting,1851,21.5 sq mi ,55.68 km2),,1775
+222,Orange,Town,Franklin,Open town meeting,7569,36.0 sq mi ,93.24 km2),,1810
+223,Orleans,Town,Barnstable,Open town meeting,6307,22.7 sq mi ,58.79 km2),,1797
+224,Otis,Town,Berkshire,Open town meeting,1634,38.0 sq mi ,98.42 km2),,1773
+225,Oxford,Town,Worcester,Open town meeting,13347,27.5 sq mi ,71.22 km2),,1713
+226,Palmer,City[a],Hampden,Manager-Council,12448,32.0 sq mi ,82.88 km2),,1775
+227,Paxton,Town,Worcester,Open town meeting,5004,15.5 sq mi ,40.14 km2),,1775
+228,Peabody,City,Essex,Mayor-Council,54481,16.8 sq mi ,43.51 km2),,1868
+229,Pelham,Town,Hampshire,Open town meeting,1280,26.5 sq mi ,68.63 km2),,1743
+230,Pembroke,Town,Plymouth,Open town meeting,18361,23.5 sq mi ,60.86 km2),,1712
+231,Pepperell,Town,Middlesex,Open town meeting,11604,23.2 sq mi ,60.09 km2),,1775
+232,Peru,Town,Berkshire,Open town meeting,814,26.0 sq mi ,67.34 km2),,1771
+233,Petersham,Town,Worcester,Open town meeting,1194,68.3 sq mi ,176.90 km2),,1754
+234,Phillipston,Town,Worcester,Open town meeting,1726,24.6 sq mi ,63.71 km2),,1786
+235,Pittsfield,City,Berkshire (seat),Mayor-Council,43927,42.5 sq mi ,110.07 km2),,1761
+236,Plainfield,Town,Hampshire,Open town meeting,633,21.3 sq mi ,55.17 km2),,1807
+237,Plainville,Town,Norfolk,Open town meeting,9945,11.5 sq mi ,29.78 km2),,1905
+238,Plymouth,Town,Plymouth (seat),Representative town meeting,61217,134.0 sq mi ,347.06 km2),,1620
+239,Plympton,Town,Plymouth,Open town meeting,2930,15.1 sq mi ,39.11 km2),,1707
+240,Princeton,Town,Worcester,Open town meeting,3495,35.8 sq mi ,92.72 km2),,1771
+241,Provincetown,Town,Barnstable,Open town meeting,3664,17.5 sq mi ,45.32 km2),,1727
+242,Quincy,City,Norfolk,Mayor-Council,101636,26.9 sq mi ,69.67 km2),,1792
+243,Randolph,City[a],Norfolk,Manager-Council,34984,10.5 sq mi ,27.19 km2),,1793
+244,Raynham,Town,Bristol,Open town meeting,15142,20.9 sq mi ,54.13 km2),,1731
+245,Reading,Town,Middlesex,Representative town meeting,25518,9.9 sq mi ,25.64 km2),,1644
+246,Rehoboth,Town,Bristol,Open town meeting,12502,46.8 sq mi ,121.21 km2),,1645
+247,Revere,City,Suffolk,Mayor-Council,62186,10.1 sq mi ,26.16 km2),,1846
+248,Richmond,Town,Berkshire,Open town meeting,1407,19.0 sq mi ,49.21 km2),,1765
+249,Rochester,Town,Plymouth,Open town meeting,5717,36.4 sq mi ,94.28 km2),,1686
+250,Rockland,Town,Plymouth,Open town meeting,17803,10.1 sq mi ,26.16 km2),,1874
+251,Rockport,Town,Essex,Open town meeting,6992,17.5 sq mi ,45.32 km2),,1840
+252,Rowe,Town,Franklin,Open town meeting,424,24.0 sq mi ,62.16 km2),,1785
+253,Rowley,Town,Essex,Open town meeting,6161,20.3 sq mi ,52.58 km2),,1639
+254,Royalston,Town,Worcester,Open town meeting,1250,42.5 sq mi ,110.07 km2),,1765
+255,Russell,Town,Hampden,Open town meeting,1643,17.8 sq mi ,46.10 km2),,1792
+256,Rutland,Town,Worcester,Open town meeting,9049,36.4 sq mi ,94.28 km2),,1713
+257,Salem,City,Essex (seat),Mayor-Council,44480,18.3 sq mi ,47.40 km2),,1626
+258,Salisbury,Town,Essex,Open town meeting,9236,17.9 sq mi ,46.36 km2),,1639
+259,Sandisfield,Town,Berkshire,Open town meeting,989,53.0 sq mi ,137.27 km2),,1762
+260,Sandwich,Town,Barnstable,Open town meeting,20259,44.2 sq mi ,114.48 km2),,1638
+261,Saugus,Town,Essex,Representative town meeting,28619,11.8 sq mi ,30.56 km2),,1815
+262,Savoy,Town,Berkshire,Open town meeting,645,36.0 sq mi ,93.24 km2),,1797
+263,Scituate,Town,Plymouth,Open town meeting,19063,31.8 sq mi ,82.36 km2),,1636
+264,Seekonk,Town,Bristol,Open town meeting,15531,18.3 sq mi ,47.40 km2),,1812
+265,Sharon,Town,Norfolk,Open town meeting,18575,24.2 sq mi ,62.68 km2),,1775
+266,Sheffield,Town,Berkshire,Open town meeting,3327,48.6 sq mi ,125.87 km2),,1733
+267,Shelburne,Town,Franklin,Open town meeting,1884,23.4 sq mi ,60.61 km2),,1775
+268,Sherborn,Town,Middlesex,Open town meeting,4401,16.2 sq mi ,41.96 km2),,1674
+269,Shirley,Town,Middlesex,Open town meeting,7431,15.9 sq mi ,41.18 km2),,1775
+270,Shrewsbury,Town,Worcester,Representative town meeting,38325,21.7 sq mi ,56.20 km2),,1727
+271,Shutesbury,Town,Franklin,Open town meeting,1717,27.2 sq mi ,70.45 km2),,1761
+272,Somerset,Town,Bristol,Open town meeting,18303,12.0 sq mi ,31.08 km2),,1790
+273,Somerville,City,Middlesex,Mayor-Council,81045,4.2 sq mi ,10.88 km2),,1842
+274,South Hadley,Town,Hampshire,Representative town meeting,18150,18.4 sq mi ,47.66 km2),,1775
+275,Southampton,Town,Hampshire,Open town meeting,6224,29.1 sq mi ,75.37 km2),,1775
+276,Southborough,Town,Worcester,Open town meeting,10450,15.7 sq mi ,40.66 km2),,1727
+277,Southbridge,City[a],Worcester,Manager-Council,17740,20.9 sq mi ,54.13 km2),,1816
+278,Southwick,Town,Hampden,Open town meeting,9232,31.7 sq mi ,82.10 km2),,1775
+279,Spencer,Town,Worcester,Open town meeting,11992,34.1 sq mi ,88.32 km2),,1775
+280,Springfield,City,Hampden (seat),Mayor-Council,155929,33.1 sq mi ,85.73 km2),,1636
+281,Sterling,Town,Worcester,Open town meeting,7985,31.6 sq mi ,81.84 km2),,1781
+282,Stockbridge,Town,Berkshire,Open town meeting,2018,23.7 sq mi ,61.38 km2),,1739
+283,Stoneham,Town,Middlesex,Open town meeting,23244,6.7 sq mi ,17.35 km2),,1725
+284,Stoughton,Town,Norfolk,Representative town meeting,29281,16.3 sq mi ,42.22 km2),,1726
+285,Stow,Town,Middlesex,Open town meeting,7174,18.1 sq mi ,46.88 km2),,1683
+286,Sturbridge,Town,Worcester,Open town meeting,9867,39.0 sq mi ,101.01 km2),,1738
+287,Sudbury,Town,Middlesex,Open town meeting,18934,24.6 sq mi ,63.71 km2),,1639
+288,Sunderland,Town,Franklin,Open town meeting,3663,14.7 sq mi ,38.07 km2),,1714
+289,Sutton,Town,Worcester,Open town meeting,9357,33.9 sq mi ,87.80 km2),,1714
+290,Swampscott,Town,Essex,Representative town meeting,15111,6.7 sq mi ,17.35 km2),,1852
+291,Swansea,Town,Bristol,Open town meeting,17144,25.5 sq mi ,66.04 km2),,1667
+292,Taunton,City,Bristol (seat),Mayor-Council,59408,48.4 sq mi ,125.36 km2),,1639
+293,Templeton,Town,Worcester,Open town meeting,8149,32.4 sq mi ,83.92 km2),,1762
+294,Tewksbury,Town,Middlesex,Open town meeting,31342,21.1 sq mi ,54.65 km2),,1734
+295,Tisbury,Town,Dukes,Open town meeting,4815,19.1 sq mi ,49.47 km2),,1671
+296,Tolland,Town,Hampden,Open town meeting,471,32.8 sq mi ,84.95 km2),,1810
+297,Topsfield,Town,Essex,Open town meeting,6569,12.8 sq mi ,33.15 km2),,1650
+298,Townsend,Town,Middlesex,Open town meeting,9127,33.1 sq mi ,85.73 km2),,1732
+299,Truro,Town,Barnstable,Open town meeting,2454,26.3 sq mi ,68.12 km2),,1709
+300,Tyngsborough,Town,Middlesex,Open town meeting,12380,18.1 sq mi ,46.88 km2),,1809
+301,Tyringham,Town,Berkshire,Open town meeting,427,18.9 sq mi ,48.95 km2),,1762
+302,Upton,Town,Worcester,Open town meeting,8000,21.7 sq mi ,56.20 km2),,1735
+303,Uxbridge,Town,Worcester,Open town meeting,14162,30.4 sq mi ,78.74 km2),,1727
+304,Wakefield,Town,Middlesex,Open town meeting,27090,7.9 sq mi ,20.46 km2),,1812
+305,Wales,Town,Hampden,Open town meeting,1832,15.9 sq mi ,41.18 km2),,1762
+306,Walpole,Town,Norfolk,Representative town meeting,26383,21.0 sq mi ,54.39 km2),,1724
+307,Waltham,City,Middlesex,Mayor-Council,65218,13.8 sq mi ,35.74 km2),,1738
+308,Ware,Town,Hampshire,Open town meeting,10066,40.0 sq mi ,103.60 km2),,1775
+309,Wareham,Town,Plymouth,Open town meeting,23303,46.3 sq mi ,119.92 km2),,1739
+310,Warren,Town,Worcester,Open town meeting,4975,27.6 sq mi ,71.48 km2),,1742
+311,Warwick,Town,Franklin,Open town meeting,780,37.6 sq mi ,97.38 km2),,1763
+312,Washington,Town,Berkshire,Open town meeting,494,38.8 sq mi ,100.49 km2),,1777
+313,Watertown,City[8],Middlesex,Manager-Council,35329,4.1 sq mi ,10.62 km2),,1630
+314,Wayland,Town,Middlesex,Open town meeting,13943,15.9 sq mi ,41.18 km2),,1780
+315,Webster,Town,Worcester,Open town meeting,17776,14.5 sq mi ,37.55 km2),,1832
+316,Wellesley,Town,Norfolk,Representative town meeting,29550,10.5 sq mi ,27.19 km2),,1881
+317,Wellfleet,Town,Barnstable,Open town meeting,3566,35.4 sq mi ,91.69 km2),,1775
+318,Wendell,Town,Franklin,Open town meeting,924,32.2 sq mi ,83.40 km2),,1781
+319,Wenham,Town,Essex,Open town meeting,4979,8.1 sq mi ,20.98 km2),,1643
+320,West Boylston,Town,Worcester,Open town meeting,7877,13.8 sq mi ,35.74 km2),,1808
+321,West Bridgewater,Town,Plymouth,Open town meeting,7707,15.7 sq mi ,40.66 km2),,1822
+322,West Brookfield,Town,Worcester,Open town meeting,3833,21.1 sq mi ,54.65 km2),,1848
+323,West Newbury,Town,Essex,Open town meeting,4500,14.7 sq mi ,38.07 km2),,1819
+324,West Springfield,City[a],Hampden,Mayor-Council,28835,17.5 sq mi ,45.32 km2),,1774
+325,West Stockbridge,Town,Berkshire,Open town meeting,1343,18.7 sq mi ,48.43 km2),,1775
+326,West Tisbury,Town,Dukes,Open town meeting,3555,41.8 sq mi ,108.26 km2),,1892
+327,Westborough,Town,Worcester,Open town meeting,21567,21.6 sq mi ,55.94 km2),,1717
+328,Westfield,City,Hampden,Mayor-Council,40834,47.3 sq mi ,122.51 km2),,1669
+329,Westford,Town,Middlesex,Open town meeting,24643,31.3 sq mi ,81.07 km2),,1729
+330,Westhampton,Town,Hampshire,Open town meeting,1622,27.4 sq mi ,70.97 km2),,1778
+331,Westminster,Town,Worcester,Open town meeting,8213,37.3 sq mi ,96.61 km2),,1770
+332,Weston,Town,Middlesex,Open town meeting,11851,17.3 sq mi ,44.81 km2),,1713
+333,Westport,Town,Bristol,Open town meeting,16339,64.4 sq mi ,166.80 km2),,1787
+334,Westwood,Town,Norfolk,Open town meeting,16266,11.1 sq mi ,28.75 km2),,1897
+335,Weymouth,City[a],Norfolk,Mayor-Council,57437,21.6 sq mi ,55.94 km2),,1635
+336,Whately,Town,Franklin,Open town meeting,1607,20.7 sq mi ,53.61 km2),,1771
+337,Whitman,Town,Plymouth,Open town meeting,15121,7.1 sq mi ,18.39 km2),,1875
+338,Wilbraham,Town,Hampden,Open town meeting,14613,22.4 sq mi ,58.02 km2),,1763
+339,Williamsburg,Town,Hampshire,Open town meeting,2504,25.7 sq mi ,66.56 km2),,1775
+340,Williamstown,Town,Berkshire,Open town meeting,7513,46.9 sq mi ,121.47 km2),,1765
+341,Wilmington,Town,Middlesex,Open town meeting,23349,17.2 sq mi ,44.55 km2),,1730
+342,Winchendon,Town,Worcester,Open town meeting,10364,44.1 sq mi ,114.22 km2),,1764
+343,Winchester,Town,Middlesex,Representative town meeting,22970,6.3 sq mi ,16.32 km2),,1850
+344,Windsor,Town,Berkshire,Open town meeting,831,35.2 sq mi ,91.17 km2),,1771
+345,Winthrop,City[a],Suffolk,Manager-Council,19316,8.3 sq mi ,21.50 km2),,1852
+346,Woburn,City,Middlesex,Mayor-Council,40876,12.9 sq mi ,33.41 km2),,1642
+347,Worcester,City,Worcester (seat),Mayor-Manager-Council,206518,38.5 sq mi ,99.71 km2),,1684
+348,Worthington,Town,Hampshire,Open town meeting,1193,32.1 sq mi ,83.14 km2),,1768
+349,Wrentham,Town,Norfolk,Open town meeting,12178,22.9 sq mi ,59.31 km2),,1673
+350,Yarmouth,Town,Barnstable,Open town meeting,25023,28.2 sq mi ,73.04 km2),,1639,Municipality,Type,County,Per Capita Income,Median Household Income,Median Family Income,Households,Population
+1,Abington,Town,Plymouth,"$45,174.00 ","$113,155.00 ","$138,555.00 ",6083,16974
+2,Acton,Town,Middlesex,"$81,270.00 ","$169,335.00 ","$213,214.00 ",8931,23899
+3,Acushnet,Town,Bristol,"$39,457.00 ","$78,362.00 ","$101,349.00 ",4091,10520
+4,Adams,Town,Berkshire,"$34,017.00 ","$49,691.00 ","$77,734.00 ",3948,8161
+5,Agawam,City,Hampden,"$42,754.00 ","$78,619.00 ","$104,743.00 ",11785,28715
+6,Amesbury,Town,Essex,"$48,390.00 ","$87,433.00 ","$115,414.00 ",7326,17286
+7,Amherst,City,Hampshire,"$26,341.00 ","$61,127.00 ","$122,025.00 ",9328,39416
+8,Andover,Town,Essex,"$83,300.00 ","$193,279.00 ","$237,434.00 ",13235,36323
+9,Arlington,Town,Middlesex,"$69,007.00 ","$125,701.00 ","$162,536.00 ",11308,46045
+10,Ashburnham,Town,Worcester,"$43,610.00 ","$104,074.00 ","$113,309.00 ",2130,6315
+11,Ashby,Town,Middlesex,"$47,086.00 ","$95,536.00 ","$105,742.00 ",1297,3189
+12,Ashfield,Town,Franklin,"$46,327.00 ","$72,944.00 ","$93,889.00 ",819,1710
+13,Ashland,Town,Middlesex,"$59,092.00 ","$115,959.00 ","$146,923.00 ",7587,18646
+14,Athol,Town,Worcester,"$28,626.00 ","$58,275.00 ","$71,414.00 ",4734,11922
+15,Attleboro,City,Bristol,"$38,942.00 ","$81,627.00 ","$99,010.00 ",17918,46146
+16,Auburn,Town,Worcester,"$62,772.00 ","$101,402.00 ","$126,886.00 ",16027,6595
+17,Avon,Town,Norfolk,"$41,432.00 ","$127,953.00 ","$128,750.00 ",1653,4740
+18,Ayer,Town,Middlesex,"$51,578.00 ","$101,688.00 ","$136,396.00 ",3694,8396
+19,Barnstable,City,Barnstable,"$46,996.00 ","$82,816.00 ","$105,750.00 ",30765,48556
+20,Barre,Town,Worcester,"$38,041.00 ","$92,206.00 ","$108,832.00 ",1918,5531
+21,Becket,Town,Berkshire,"$42,134.00 ","$60,833.00 ","$81,563.00 ",974,2152
+22,Bedford,Town,Middlesex,"$75,343.00 ","$140,647.00 ","$193,578.00 ",5540,14287
+23,Belchertown,Town,Hampshire,"$43,421.00 ","$101,109.00 ","$117,121.00 ",5888,15228
+24,Bellingham,Town,Norfolk,"$44,845.00 ","$109,042.00 ","$122,554.00 ",6250,16934
+25,Belmont,Town,Middlesex,"$81,383.00 ","$151,502.00 ","$185,551.00 ",10393,27056
+26,Berkley,Town,Bristol,"$43,686.00 ","$110,518.00 ","$114,363.00 ",2294,6724
+27,Berlin,Town,Worcester,"$55,248.00 ","$106,908.00 ","$121,182.00 ",1311,3326
+28,Bernardston,Town,Franklin,"$35,461.00 ","$70,750.00 ","$82,292.00 ",838,2081
+29,Beverly,City,Essex,"$46,645.00 ","$91,592.00 ","$119,420.00 ",24400,42448
+30,Billerica,Town,Middlesex,"$36,846.00 ","$67,292.00 ","$91,667.00 ",21235,42119
+31,Blackstone,Town,Worcester,"$43,891.00 ","$89,129.00 ","$122,321.00 ",3874,9188
+32,Blandford,Town,Hampden,"$42,569.00 ","$79,263.00 ","$104,583.00 ",473,1066
+33,Bolton,Town,Worcester,"$66,748.00 ","$167,132.00 ","$191,434.00 ",1853,5606
+34,Boston,City,Suffolk,"$50,344.00 ","$81,744.00 ","$95,750.00 ",271950,672814
+35,Bourne,Town,Barnstable,"$47,950.00 ","$82,119.00 ","$99,913.00 ",8525,20364
+36,Boxborough,Town,Middlesex,"$66,081.00 ","$172,022.00 ","$197,784.00 ",2567,5471
+37,Boxford,Town,Essex,"$83,766.00 ","$187,813.00 ","$195,515.00 ",2867,8188
+38,Boylston,Town,Worcester,"$46,340.00 ","$70,864.00 ","$96,672.00 ",3989,4810
+39,Braintree,City,Norfolk,"$37,342.00 ","$64,305.00 ","$90,318.00 ",14384,38712
+40,Brewster,Town,Barnstable,"$50,551.00 ","$88,110.00 ","$114,088.00 ",4605,10282
+41,Bridgewater,City,Plymouth,"$41,188.00 ","$107,757.00 ","$125,011.00 ",8690,28337
+42,Brimfield,Town,Hampden,"$50,533.00 ","$89,882.00 ","$121,681.00 ",717,3448
+43,Brockton,City,Plymouth,"$30,508.00 ","$68,067.00 ","$79,124.00 ",35092,104216
+44,Brookfield,Town,Worcester,"$39,401.00 ","$75,329.00 ","$115,592.00 ",1395,3435
+45,Brookline,Town,Norfolk,"$83,318.00 ","$122,356.00 ","$195,101.00 ",26762,62620
+46,Buckland,Town,Franklin,"$32,279.00 ","$66,681.00 ","$78,542.00 ",886,2083
+47,Burlington,Town,Middlesex,"$53,430.00 ","$123,630.00 ","$142,403.00 ",10628,23311
+48,Cambridge,City,Middlesex,"$65,494.00 ","$112,565.00 ","$147,492.00 ",47777,116892
+49,Canton,Town,Norfolk,"$66,512.00 ","$83,992.00 ","$118,750.00 ",10002,24122
+50,Carlisle,Town,Middlesex,"$91,493.00 ","$216,000.00 ","$250,000+",1800,5215
+51,Carver,Town,Plymouth,"$38,784.00 ","$77,119.00 ","$90,490.00 ",5666,11641
+52,Charlemont,Town,Franklin,"$34,358.00 ","$51,797.00 ","$66,750.00 ",498,1062
+53,Charlton,Town,Worcester,"$42,561.00 ","$106,558.00 ","$115,806.00 ",4776,13312
+54,Chatham,Town,Barnstable,"$65,443.00 ","$88,750.00 ","$120,239.00 ",3164,6554
+55,Chelmsford,Town,Middlesex,"$60,517.00 ","$145,552.00 ","$175,708.00 ",17136,36392
+56,Chelsea,City,Suffolk,"$27,627.00 ","$64,782.00 ","$66,175.00 ",13353,40025
+57,Cheshire,Town,Berkshire,"$38,249.00 ","$69,069.00 ","$92,981.00 ",1509,3243
+58,Chester,Town,Hampden,"$31,462.00 ","$76,283.00 ","$76,797.00 ",517,1400
+59,Chesterfield,Town,Hampshire,"$40,202.00 ","$80,156.00 ","$87,955.00 ",460,1087
+60,Chicopee,City,Hampden,"$31,086.00 ","$56,509.00 ","$68,460.00 ",23852,55636
+61,Clarksburg,Town,Berkshire,"$45,087.00 ","$105,313.00 ","$118,623.00 ",729,1750
+62,Clinton,Town,Worcester,"$40,857.00 ","$84,938.00 ","$99,313.00 ",6455,15221
+63,Cohasset,Town,Norfolk,"$94,437.00 ","$156,689.00 ","$250,000+",3146,8295
+64,Colrain,Town,Franklin,"$34,785.00 ","$63,750.00 ","$75,958.00 ",726,1693
+65,Concord,Town,Middlesex,"$87,603.00 ","$70,000.00 ","$118,750.00 ",6722,18424
+66,Conway,Town,Franklin,"$52,711.00 ","$97,956.00 ","$120,123.00 ",1813,3395
+67,Cummington,Town,Hampshire,"$35,900.00 ","$76,300.00 ","$105,156.00 ",408,975
+68,Dalton,Town,Berkshire,"$44,825.00 ","$72,664.00 ","$96,184.00 ",2907,6356
+69,Danvers,Town,Essex,"$49,862.00 ","$105,654.00 ","$122,147.00 ",10964,27966
+70,Dartmouth,Town,Bristol,"$41,307.00 ","$95,404.00 ","$114,492.00 ",11863,34054
+71,Dedham,Town,Norfolk,"$57,489.00 ","$108,047.00 ","$149,467.00 ",10458,25308
+72,Deerfield,Town,Franklin,"$48,762.00 ","$90,638.00 ","$99,910.00 ",2237,5090
+73,Dennis,Town,Barnstable,"$60,789.00 ","$127,833.00 ","$138,500.00 ",6989,14664
+74,Dighton,Town,Bristol,"$42,511.00 ","$100,307.00 ","$111,039.00 ",2943,8003
+75,Douglas,Town,Worcester,"$51,373.00 ","$135,250.00 ","$147,692.00 ",3133,8975
+76,Dover,Town,Norfolk,"$133,500.00 ","$250,000+","$250,000+",1916,5894
+77,Dracut,Town,Middlesex,"$42,008.00 ","$95,229.00 ","$113,068.00 ",12370,32356
+78,Dudley,Town,Worcester,"$31,664.00 ","$75,465.00 ","$106,940.00 ",4199,11890
+79,Dunstable,Town,Middlesex,"$60,517.00 ","$145,552.00 ","$175,708.00 ",1136,3369
+80,Duxbury,Town,Plymouth,"$75,630.00 ","$117,035.00 ","$173,500.00 ",6873,16004
+81,East Bridgewater,Town,Plymouth,"$49,445.00 ","$110,842.00 ","$128,039.00 ",4949,14393
+82,East Brookfield,Town,Worcester,"$38,292.00 ","$70,660.00 ","$78,438.00 ",835,2040
+83,East Longmeadow,Town,Hampden,"$45,658.00 ","$95,248.00 ","$122,917.00 ",6011,16386
+84,Eastham,Town,Barnstable,"$60,444.00 ","$118,185.00 ","$162,177.00 ",2525,5674
+85,Easthampton,City,Hampshire,"$40,087.00 ","$63,098.00 ","$81,789.00 ",7796,16120
+86,Easton,Town,Bristol,"$53,994.00 ","$112,116.00 ","$148,924.00 ",8993,24962
+87,Edgartown,Town,Middlesex,"$55,001.00 ","$105,541.00 ","$148,162.00 ",9758,23077
+88,Egremont,Town,Berkshire,"$51,154.00 ","$79,946.00 ","$102,308.00 ",591,1521
+89,Erving,Town,Franklin,"$32,207.00 ","$66,319.00 ","$93,274.00 ",681,1697
+90,Essex,Town,Essex,"$53,186.00 ","$116,027.00 ","$125,662.00 ",1343,3674
+91,Everett,City,Middlesex,"$31,599.00 ","$71,510.00 ","$74,657.00 ",17007,48368
+92,Fairhaven,Town,Bristol,"$60,851.00 ","$155,482.00 ","$163,750.00 ",6862,15911
+93,Fall River,City,Bristol,"$28,561.00 ","$49,613.00 ","$60,181.00 ",40862,93339
+94,Falmouth,Town,Middlesex,"$57,906.00 ","$110,372.00 ","$142,171.00 ",18943,32526
+95,Fitchburg,City,Worcester,"$30,300.00 ","$60,466.00 ","$74,731.00 ",16398,41796
+96,Florida,Town,Berkshire,"$34,545.00 ","$74,333.00 ","$87,813.00 ",318,783
+97,Foxborough,Town,Norfolk,"$57,552.00 ","$95,410.00 ","$127,679.00 ",7289,18431
+98,Framingham,City,Middlesex,"$39,507.00 ","$87,137.00 ","$103,394.00 ",27604,72362
+99,Franklin,Town,Norfolk,"$55,509.00 ","$127,608.00 ","$160,000.00 ",12118,33057
+100,Freetown,Town,Bristol,"$44,663.00 ","$109,821.00 ","$121,779.00 ",3369,9165
+101,Gardner,City,Worcester,"$30,506.00 ","$52,770.00 ","$64,699.00 ",8841,21183
+102,Georgetown,Town,Essex,"$55,782.00 ","$129,153.00 ","$144,467.00 ",3223,8461
+103,Gill,Town,Franklin,"$45,190.00 ","$82,278.00 ","$102,995.00 ",1328,1708
+104,Gloucester,City,Essex,"$57,613.00 ","$140,192.00 ","$149,911.00 ",13168,29814
+105,Goshen,Town,Hampshire,"$42,984.00 ","$95,000.00 ","$107,813.00 ",372,870
+106,Grafton,Town,Worcester,"$52,350.00 ","$107,237.00 ","$134,459.00 ",7468,19540
+107,Granby,Town,Hampshire,"$48,725.00 ","$106,821.00 ","$125,686.00 ",2530,6110
+108,Granville,Town,Hampden,"$41,652.00 ","$89,875.00 ","$105,313.00 ",657,1658
+109,Great Barrington,Town,Berkshire,"$41,587.00 ","$65,192.00 ","$88,342.00 ",3096,7169
+110,Greenfield,City,Franklin,"$32,167.00 ","$52,211.00 ","$69,476.00 ",8100,17661
+111,Groton,Town,Middlesex,"$72,451.00 ","$155,252.00 ","$192,593.00 ",3235,11254
+112,Groveland,Town,Essex,"$50,812.00 ","$121,711.00 ","$139,074.00 ",2532,6739
+113,Hadley,Town,Hampshire,"$50,856.00 ","$101,458.00 ","$124,856.00 ",2254,5293
+114,Halifax,Town,Plymouth,"$42,742.00 ","$98,264.00 ","$107,306.00 ",2930,7737
+115,Hamilton,Town,Essex,"$50,599.00 ","$116,699.00 ","$135,488.00 ",2567,7617
+116,Hampden,Town,Hampden,"$44,474.00 ","$99,400.00 ","$109,740.00 ",2016,4991
+117,Hancock,Town,Berkshire,"$37,505.00 ","$74,167.00 ","$102,969.00 ",296,749
+118,Hanover,Town,Plymouth,"$59,268.00 ","$149,048.00 ","$165,064.00 ",4744,14742
+119,Hanson,Town,Plymouth,"$51,071.00 ","$112,315.00 ","$128,464.00 ",3920,10601
+120,Hardwick,Town,Worcester,"$34,931.00 ","$71,429.00 ","$103,152.00 ",1028,2713
+121,Harwich,Town,Barnstable,"$60,260.00 ","$124,755.00 ","$148,558.00 ",5733,13329
+122,Hatfield,Town,Hampshire,"$42,739.00 ","$76,688.00 ","$102,025.00 ",1490,3315
+123,Haverhill,City,Essex,"$44,056.00 ","$83,570.00 ","$106,692.00 ",22808,67093
+124,Hawley,Town,Franklin,"$46,608.00 ","$70,625.00 ","$88,750.00 ",139,379
+125,Heath,Town,Franklin,"$42,410.00 ","$97,704.00 ","$84,688.00 ",314,728
+126,Hingham,Town,Plymouth,"$91,263.00 ","$154,300.00 ","$222,016.00 ",9252,24061
+127,Hinsdale,Town,Berkshire,"$32,877.00 ","$65,911.00 ","$83,320.00 ",779,1866
+128,Holbrook,Town,Norfolk,"$41,324.00 ","$89,763.00 ","$115,168.00 ",4712,11344
+129,Holden,Town,Worcester,"$50,674.00 ","$124,638.00 ","$143,611.00 ",7180,19659
+130,Holland,Town,Hampden,"$48,470.00 ","$90,638.00 ","$110,761.00 ",968,2591
+131,Holliston,Town,Middlesex,"$66,563.00 ","$142,348.00 ","$166,912.00 ",5485,14891
+132,Holyoke,City,Hampden,"$25,744.00 ","$45,045.00 ","$54,321.00 ",15062,38480
+133,Hopedale,Town,Worcester,"$46,266.00 ","$113,300.00 ","$121,136.00 ",2116,6012
+134,Hopkinton,Town,Middlesex,"$85,400.00 ","$179,192.00 ","$221,683.00 ",6556,18501
+135,Hubbardston,Town,Worcester,"$41,663.00 ","$105,938.00 ","$120,000.00 ",1586,4338
+136,Hudson,Town,Middlesex,"$48,829.00 ","$94,191.00 ","$129,472.00 ",8035,20032
+137,Hull,Town,Plymouth,"$63,148.00 ","$117,120.00 ","$143,603.00 ",4380,10120
+138,Huntington,Town,Hampshire,"$34,276.00 ","$68,542.00 ","$90,446.00 ",911,2205
+139,Ipswich,Town,Essex,"$66,285.00 ","$111,701.00 ","$144,861.00 ",5573,13740
+140,Kingston,Town,Plymouth,"$48,940.00 ","$103,945.00 ","$133,281.00 ",5321,13618
+141,Lakeville,Town,Plymouth,"$47,341.00 ","$112,240.00 ","$126,250.00 ",4162,11514
+142,Lancaster,Town,Worcester,"$40,875.00 ","$109,963.00 ","$119,321.00 ",2818,8428
+143,Lanesborough,Town,Berkshire,"$41,710.00 ","$75,156.00 ","$84,531.00 ",1368,3043
+144,Lawrence,City,Essex,"$23,316.00 ","$47,542.00 ","$52,283.00 ",30291,87798
+145,Lee,Town,Berkshire,"$39,400.00 ","$73,750.00 ","$104,091.00 ",2306,5784
+146,Leicester,Town,Worcester,"$37,653.00 ","$83,015.00 ","$104,744.00 ",3924,11077
+147,Lenox,Town,Berkshire,"$47,510.00 ","$71,117.00 ","$97,969.00 ",2211,5089
+148,Leominster,City,Worcester,"$34,523.00 ","$84,120.00 ","$100,343.00 ",17896,43478
+149,Leverett,Town,Franklin,"$55,346.00 ","$97,188.00 ","$103,375.00 ",708,1794
+150,Lexington,Town,Middlesex,"$96,170.00 ","$202,852.00 ","$235,039.00 ",12301,34235
+151,Leyden,Town,Franklin,"$47,244.00 ","$97,625.00 ","$101,705.00 ",259,651
+152,Lincoln,Town,Middlesex,"$92,567.00 ","$145,833.00 ","$169,574.00 ",2566,6941
+153,Littleton,Town,Middlesex,"$75,401.00 ","$129,132.00 ","$174,779.00 ",6283,12483
+154,Longmeadow,Town,Hampden,"$74,126.00 ","$148,010.00 ","$173,250.00 ",5662,15863
+155,Lowell,City,Middlesex,"$36,534.00 ","$75,130.00 ","$89,761.00 ",42285,114804
+156,Ludlow,Town,Hampden,"$49,193.00 ","$103,498.00 ","$129,170.00 ",8567,21050
+157,Lunenburg,Town,Worcester,"$45,145.00 ","$101,205.00 ","$113,596.00 ",4432,11627
+158,Lynn,City,Essex,"$29,541.00 ","$63,922.00 ","$75,627.00 ",36280,100233
+159,Lynnfield,Town,Essex,"$67,303.00 ","$147,237.00 ","$167,700.00 ",4536,12874
+160,Malden,City,Middlesex,"$30,620.00 ","$64,489.00 ","$77,946.00 ",32285,65602
+161,Mansfield,Town,Bristol,"$55,451.00 ","$122,274.00 ","$143,500.00 ",8707,23768
+162,Marblehead,Town,Essex,"$81,072.00 ","$154,049.00 ","$193,086.00 ",8075,20397
+163,Marion,Town,Plymouth,"$73,957.00 ","$99,456.00 ","$143,202.00 ",1632,5293
+164,Marlborough,City,Middlesex,"$44,775.00 ","$86,230.00 ","$108,694.00 ",17147,41505
+165,Marshfield,Town,Plymouth,"$52,025.00 ","$109,841.00 ","$136,099.00 ",10094,25793
+166,Mashpee,Town,Barnstable,"$48,569.00 ","$83,563.00 ","$113,231.00 ",6603,14996
+167,Maynard,Town,Middlesex,"$55,372.00 ","$112,432.00 ","$147,701.00 ",4269,10702
+168,Medfield,Town,Norfolk,"$88,348.00 ","$196,820.00 ","$229,076.00 ",4373,12775
+169,Medford,City,Middlesex,"$39,485.00 ","$94,298.00 ","$125,828.00 ",28321,60708
+170,Medway,Town,Norfolk,"$66,559.00 ","$147,257.00 ","$164,737.00 ",4681,13105
+171,Melrose,City,Middlesex,"$44,361.00 ","$100,337.00 ","$115,069.00 ",15621,29567
+172,Mendon,Town,Worcester,"$51,840.00 ","$133,850.00 ","$156,676.00 ",2076,6212
+173,Merrimac,Town,Essex,"$43,144.00 ","$88,832.00 ","$116,908.00 ",2589,6698
+174,Methuen,City,Essex,"$42,944.00 ","$72,884.00 ","$90,663.00 ",18803,52536
+175,Middleborough,Town,Plymouth,"$43,754.00 ","$81,809.00 ","$92,684.00 ",9727,24219
+176,Middlefield,Town,Hampshire,"$46,890.00 ","$73,636.00 ","$78,958.00 ",164,342
+177,Middleton,Town,Essex,"$59,179.00 ","$140,511.00 ","$159,509.00 ",3122,9726
+178,Milford,Town,Worcester,"$41,540.00 ","$89,332.00 ","$103,785.00 ",11446,30134
+179,Millbury,Town,Worcester,"$50,498.00 ","$95,184.00 ","$115,398.00 ",6292,16245
+180,Millis,Town,Norfolk,"$55,899.00 ","$131,138.00 ","$143,050.00 ",3078,8481
+181,Millville,Town,Worcester,"$44,560.00 ","$82,131.00 ","$104,500.00 ",1275,3166
+182,Milton,Town,Norfolk,"$66,359.00 ","$115,807.00 ","$157,660.00 ",8781,28382
+183,Monson,Town,Hampden,"$41,590.00 ","$72,305.00 ","$90,302.00 ",3422,8210
+184,Montague,Town,Franklin,"$33,442.00 ","$65,925.00 ","$88,706.00 ",3765,8565
+185,Montgomery,Town,Hampden,"$52,281.00 ","$104,500.00 ","$122,813.00 ",366,898
+186,Mount Washington,Town,Berkshire,"$45,724.00 ","$92,917.00 ","$94,167.00 ",77,161
+187,Nahant,Town,Essex,"$62,128.00 ","$161,076.00 ","$172,515.00 ",1515,3334
+188,Nantucket,Town,Nantucket,"$77,003.00 ","$116,406.00 ","$181,484.00 ",4031,13795
+189,Natick,Town,Middlesex,"$67,267.00 ","$122,914.00 ","$159,380.00 ",10243,36627
+190,Needham,Town,Norfolk,"$87,067.00 ","$182,813.00 ","$225,747.00 ",11260,31808
+191,New Ashford,Town,Berkshire,"$43,074.00 ","$68,500.00 ","$83,750.00 ",90,223
+192,New Bedford,City,Bristol,"$27,583.00 ","$50,581.00 ","$62,189.00 ",41395,100309
+193,New Braintree,Town,Worcester,"$42,015.00 ","$86,667.00 ","$98,750.00 ",430,1052
+194,New Marlborough,Town,Berkshire,"$45,768.00 ","$73,571.00 ","$109,167.00 ",652,1573
+195,New Salem,Town,Franklin,"$36,675.00 ","$71,221.00 ","$72,500.00 ",452,1072
+196,Newbury,Town,Essex,"$71,508.00 ","$152,356.00 ","$160,268.00 ",2533,6745
+197,Newburyport,City,Essex,"$61,696.00 ","$153,971.00 ","$189,419.00 ",7537,18282
+198,Newton,City,Middlesex,"$81,020.00 ","$164,607.00 ","$201,924.00 ",21038,88647
+199,Norfolk,Town,Norfolk,"$52,240.00 ","$168,281.00 ","$179,354.00 ",2967,11531
+200,North Adams,City,Berkshire,"$31,428.00 ","$48,575.00 ","$65,903.00 ",5540,13024
+201,North Andover,Town,Essex,"$71,327.00 ","$94,375.00 ","$111,667.00 ",628,1468
+202,North Attleborough,Town,Bristol,"$47,877.00 ","$97,967.00 ","$129,573.00 ",12273,30557
+203,North Brookfield,Town,Worcester,"$38,700.00 ","$77,313.00 ","$88,869.00 ",1883,4757
+204,North Reading,Town,Middlesex,"$61,653.00 ","$124,196.00 ","$127,358.00 ",5848,15549
+205,Northampton,City,Hampshire,"$41,663.00 ","$72,687.00 ","$105,741.00 ",11949,29379
+206,Northborough,Town,Worcester,"$62,946.00 ","$129,780.00 ","$161,601.00 ",5821,15863
+207,Northbridge,Town,Worcester,"$43,333.00 ","$97,206.00 ","$116,343.00 ",6364,16291
+208,Northfield,Town,Franklin,"$41,106.00 ","$83,750.00 ","$89,483.00 ",1213,2899
+209,Norton,Town,Bristol,"$45,590.00 ","$109,375.00 ","$124,310.00 ",6489,19270
+210,Norwell,Town,Plymouth,"$68,728.00 ","$136,875.00 ","$207,813.00 ",3180,11258
+211,Norwood,Town,Norfolk,"$54,645.00 ","$96,414.00 ","$120,146.00 ",13002,31256
+212,Oak Bluffs,Town,Dukes,"$51,258.00 ","$94,545.00 ","$125,982.00 ",1766,5284
+213,Oakham,Town,Worcester,"$39,893.00 ","$85,078.00 ","$89,167.00 ",625,1621
+214,Orange,Town,Franklin,"$28,966.00 ","$53,448.00 ","$76,912.00 ",2982,7622
+215,Orleans,Town,Barnstable,"$63,651.00 ","$79,250.00 ","$115,409.00 ",2989,6276
+216,Otis,Town,Berkshire,"$49,186.00 ","$93,316.00 ","$98,125.00 ",694,1460
+217,Oxford,Town,Worcester,"$45,471.00 ","$72,124.00 ","$93,259.00 ",4800,13399
+218,Palmer,Town,Hampden,"$35,844.00 ","$70,090.00 ","$81,753.00 ",5207,12434
+219,Paxton,Town,Worcester,"$49,419.00 ","$123,958.00 ","$145,469.00 ",1588,5005
+220,Peabody,City,Essex,"$36,180.00 ","$55,938.00 ","$70,189.00 ",22208,54200
+221,Pelham,Town,Hampshire,"$49,128.00 ","$97,917.00 ","$125,114.00 ",543,1280
+222,Pembroke,Town,Plymouth,"$53,499.00 ","$130,015.00 ","$152,776.00 ",6861,18329
+223,Pepperell,Town,Middlesex,"$48,499.00 ","$112,043.00 ","$127,468.00 ",4361,11671
+224,Peru,Town,Berkshire,"$40,332.00 ","$74,464.00 ","$86,979.00 ",325,744
+225,Petersham,Town,Worcester,"$40,275.00 ","$77,500.00 ","$104,306.00 ",458,1141
+226,Phillipston,Town,Worcester,"$36,890.00 ","$88,289.00 ","$91,298.00 ",716,1948
+227,Pittsfield,City,Berkshire,"$37,356.00 ","$59,522.00 ","$77,469.00 ",19290,43890
+228,Plainfield,Town,Hampshire,"$41,148.00 ","$70,750.00 ","$78,250.00 ",281,676
+229,Plainville,Town,Norfolk,"$51,092.00 ","$96,932.00 ","$114,853.00 ",4144,9760
+230,Plymouth,City,Plymouth,"$57,027.00 ","$82,470.00 ","$110,833.00 ",24985,60987
+231,Plympton,Town,Plymouth,"$47,235.00 ","$118,098.00 ","$118,696.00 ",989,2934
+232,Princeton,Town,Worcester,"$63,289.00 ","$148,438.00 ","$150,043.00 ",1298,3502
+233,Provincetown,Town,Barnstable,"$50,384.00 ","$79,432.00 ","$99,063.00 ",1862,3582
+234,Quincy,City,Norfolk,"$44,919.00 ","$82,500.00 ","$97,361.00 ",44515,100544
+235,Randolph,City,Norfolk,"$39,488.00 ","$87,869.00 ","$98,813.00 ",12150,34661
+236,Raynham,Town,Bristol,"$46,231.00 ","$96,830.00 ","$122,533.00 ",5460,14957
+237,Reading,Town,Middlesex,"$68,526.00 ","$101,487.00 ","$121,963.00 ",8926,25483
+238,Rehoboth,Town,Bristol,"$45,110.00 ","$115,156.00 ","$128,533.00 ",4377,12434
+239,Revere,City,Suffolk,"$33,749.00 ","$73,041.00 ","$84,176.00 ",21647,60720
+240,Richmond,Town,Berkshire,"$46,695.00 ","$90,208.00 ","$123,646.00 ",21346,30671
+241,Rochester,Town,Plymouth,"$51,107.00 ","$110,736.00 ","$125,294.00 ",2035,5676
+242,Rockland,Town,Plymouth,"$38,962.00 ","$90,315.00 ","$108,325.00 ",6654,17774
+243,Rockport,Town,Essex,"$63,306.00 ","$118,814.00 ","$146,156.00 ",3305,7014
+244,Rolwey,Town,Essex,"$46,676.00 ","$79,641.00 ","$101,612.00 ",5733,6234
+245,Rowe,Town,Franklin,"$32,844.00 ","$70,179.00 ","$74,167.00 ",165,434
+246,Royalston,Town,Worcester,"$36,955.00 ","$89,417.00 ","$106,250.00 ",551,1461
+247,Russell,Town,Hampden,"$38,273.00 ","$89,464.00 ","$98,401.00 ",555,1385
+248,Rutland,Town,Worcester,"$46,331.00 ","$132,000.00 ","$148,810.00 ",3052,8988
+249,Salem,City,Essex,"$58,437.00 ","$108,896.00 ","$119,739.00 ",10326,44819
+250,Salisbury,Town,Essex,"$49,861.00 ","$92,048.00 ","$109,840.00 ",3885,9152
+251,Sandisfield,Town,Berkshire,"$38,200.00 ","$80,179.00 ","$82,813.00 ",318,901
+252,Sandwich,Town,Barnstable,"$56,895.00 ","$124,354.00 ","$141,250.00 ",7918,20369
+253,Saugus,Town,Essex,"$43,997.00 ","$93,737.00 ","$106,145.00 ",10581,28521
+254,Savoy,Town,Berkshire,"$31,726.00 ","$51,250.00 ","$65,341.00 ",330,708
+255,Scituate,Town,Plymouth,"$70,543.00 ","$72,904.00 ","$96,979.00 ",7549,19016
+256,Seekonk,Town,Bristol,"$48,651.00 ","$100,041.00 ","$117,016.00 ",5969,15339
+257,Sharon,Town,Norfolk,"$71,247.00 ","$157,928.00 ","$173,170.00 ",6395,18477
+258,Sheffield,Town,Berkshire,"$59,482.00 ","$71,818.00 ","$96,034.00 ",1456,3318
+259,Shelburne,Town,Franklin,"$47,442.00 ","$72,236.00 ","$94,662.00 ",711,1436
+260,Sherborn,Town,Middlesex,"$96,081.00 ","$218,906.00 ","$242,443.00 ",1515,4406
+261,Shirley,Town,Middlesex,"$40,933.00 ","$111,875.00 ","$120,565.00 ",2345,7400
+262,Shrewsbury,Town,Worcester,"$54,673.00 ","$88,377.00 ","$117,147.00 ",19231,38291
+263,Shutesbury,Town,Franklin,"$47,474.00 ","$86,339.00 ","$97,321.00 ",767,1788
+264,Somerset,Town,Bristol,"$47,396.00 ","$96,967.00 ","$105,638.00 ",7248,18271
+265,Somerville,City,Middlesex,"$36,257.00 ","$61,811.00 ","$84,722.00 ",39745,79816
+266,South Hadley,Town,Hampshire,"$47,848.00 ","$115,890.00 ","$130,084.00 ",6002,18051
+267,Southampton,Town,Hampshire,"$47,105.00 ","$110,200.00 ","$122,379.00 ",2318,6158
+268,Southborough,Town,Worcester,"$82,164.00 ","$170,223.00 ","$204,514.00 ",3579,10380
+269,Southbridge Town,City,Worcester,"$29,962.00 ","$50,414.00 ","$67,975.00 ",7094,17643
+270,Southwick,Town,Hampden,"$46,337.00 ","$72,500.00 ","$96,250.00 ",3648,9292
+271,Spencer,Town,Worcester,"$39,729.00 ","$68,559.00 ","$91,285.00 ",5186,11963
+272,Springfield,City,Hampden,"$23,161.00 ","$43,308.00 ","$54,646.00 ",58344,155770
+273,Sterling,Town,Worcester,"$59,851.00 ","$119,000.00 ","$126,039.00 ",3248,8015
+274,Stockbridge,Town,Berkshire,"$44,851.00 ","$46,458.00 ","$93,542.00 ",811,1827
+275,Stoneham,Town,Middlesex,"$44,665.00 ","$73,849.00 ","$111,667.00 ",9578,23077
+276,Stoughton,Town,Norfolk,"$44,380.00 ","$94,823.00 ","$114,453.00 ",11277,29028
+277,Stow,Town,Middlesex,"$62,810.00 ","$147,841.00 ","$155,811.00 ",2646,7130
+278,Sturbridge,Town,Worcester,"$44,638.00 ","$95,917.00 ","$111,650.00 ",3890,9806
+279,Sudbury,Town,Middlesex,"$86,008.00 ","$217,847.00 ","$228,426.00 ",6208,18912
+280,Sunderland,Town,Franklin,"$45,461.00 ","$84,830.00 ","$124,500.00 ",1478,3667
+281,Sunderland,Town,Franklin,"$35,832.00 ","$58,750.00 ","$97,031.00 ",1666,3667
+282,Sutton,Town,Worcester,"$54,994.00 ","$111,610.00 ","$137,283.00 ",8356,9334
+283,Swampscott,Town,Essex,"$63,595.00 ","$114,086.00 ","$143,320.00 ",6093,15043
+284,Swansea,Town,Bristol,"$44,108.00 ","$101,703.00 ","$112,873.00 ",6752,17020
+285,Taunton,City,Bristol,"$33,862.00 ","$66,787.00 ","$85,478.00 ",23159,59076
+286,Templeton,Town,Worcester,"$43,748.00 ","$97,550.00 ","$104,250.00 ",3063,8145
+287,Tewksbury,Town,Middlesex,"$50,133.00 ","$111,696.00 ","$131,781.00 ",12025,31153
+288,Tolland,Town,Hampden,"$60,086.00 ","$91,771.00 ","$112,857.00 ",193,405
+289,Topsfield,Town,Essex,"$56,556.00 ","$155,208.00 ","$182,111.00 ",2202,6530
+290,Townsend,Town,Middlesex,"$47,880.00 ","$121,936.00 ","$132,304.00 ",15498,41995
+291,Truro,Town,Barnstable,"$55,990.00 ","$146,250.00 ","$162,439.00 ",1004,1987
+292,Tyngsborough,Town,Middlesex,"$50,573.00 ","$131,944.00 ","$149,760.00 ",4022,12377
+293,Tyringham,Town,Berkshire,"$56,308.00 ","$112,083.00 ","$132,321.00 ",207,541
+294,Upton,Town,Worcester,"$47,248.00 ","$82,984.00 ","$106,222.00 ",3168,7986
+295,Uxbridge,Town,Worcester,"$58,791.00 ","$125,229.00 ","$162,083.00 ",4996,14159
+296,Wakefield,Town,Middlesex,"$51,645.00 ","$78,884.00 ","$106,466.00 ",10849,27041
+297,Wales,Town,Hampden,"$40,283.00 ","$86,354.00 ","$100,208.00 ",813,1996
+298,Walpole,Town,Norfolk,"$57,066.00 ","$138,821.00 ","$170,250.00 ",9156,26413
+299,Waltham,City,Middlesex,"$44,491.00 ","$94,063.00 ","$114,680.00 ",24943,64655
+300,Ware,Town,Hampshire,"$31,641.00 ","$59,317.00 ","$78,910.00 ",4557,10067
+301,Wareham,Town,Plymouth,"$45,409.00 ","$96,672.00 ","$110,265.00 ",10280,23149
+302,Warren,Town,Worcester,"$45,634.00 ","$85,041.00 ","$102,999.00 ",1899,4999
+303,Warwick,Town,Franklin,"$38,944.00 ","$75,179.00 ","$100,000.00 ",319,762
+304,Washington,Town,Berkshire,"$43,253.00 ","$79,375.00 ","$81,146.00 ",246,501
+305,Watertown,City,Middlesex,"$38,159.00 ","$72,563.00 ","$89,393.00 ",16027,35171
+306,Wayland,Town,Middlesex,"$86,947.00 ","$203,789.00 ","$234,051.00 ",4779,13859
+307,Webster,Town,Worcester,"$53,208.00 ","$114,916.00 ","$144,255.00 ",6384,17776
+308,Wellesley,Town,Norfolk,"$97,262.00 ","$226,250.00 ","$250,000+",8668,29365
+309,Wellfleet,Town,Barnstable,"$59,393.00 ","$120,954.00 ","$160,025.00 ",1736,4305
+310,Wendell,Town,Franklin,"$33,452.00 ","$61,182.00 ","$78,333.00 ",411,916
+311,Wenham,Town,Essex,"$53,093.00 ","$154,375.00 ","$166,719.00 ",1291,5006
+312,West Boylston,Town,Worcester,"$44,185.00 ","$91,780.00 ","$113,459.00 ",2825,7874
+313,West Bridgewater,Town,Plymouth,"$45,627.00 ","$111,964.00 ","$131,033.00 ",2726,7622
+314,West Brookfield,Town,Worcester,"$41,812.00 ","$83,079.00 ","$89,301.00 ",1535,3814
+315,West Springfield,City,Hampden,"$38,318.00 ","$60,023.00 ","$83,912.00 ",12734,28814
+316,West Stockbridge,Town,Berkshire,"$48,741.00 ","$83,571.00 ","$97,554.00 ",488,1164
+317,Westborough,Town,Worcester,"$46,536.00 ","$76,859.00 ","$97,765.00 ",7980,21213
+318,Westfield,City,Hampden,"$36,635.00 ","$73,692.00 ","$92,373.00 ",15292,40922
+319,Westford,Town,Middlesex,"$65,574.00 ","$123,813.00 ","$149,596.00 ",14678,24535
+320,Westhampton,Town,Hampshire,"$49,362.00 ","$91,652.00 ","$95,909.00 ",645,1567
+321,Westminster,Town,Worcester,"$47,496.00 ","$107,738.00 ","$123,611.00 ",3122,8148
+322,Weston,Town,Middlesex,"$107,793.00 ","$220,815.00 ","$250,000+",3731,11806
+323,Westport,Town,Bristol,"$45,279.00 ","$85,019.00 ","$102,962.00 ",6782,16245
+324,Westwood,Town,Norfolk,"$75,396.00 ","$171,071.00 ","$204,657.00 ",5424,16066
+325,Weymouth,City[7],Norfolk,"$46,645.00 ","$91,592.00 ","$119,420.00 ",24400,57437
+326,Whately,Town,Franklin,"$63,974.00 ","$88,533.00 ","$97,102.00 ",681,1660
+327,Whitman,Town,Plymouth,"$40,764.00 ","$94,919.00 ","$110,593.00 ",5684,15116
+328,Wilbraham,Town,Hampden,"$53,651.00 ","$123,750.00 ","$140,833.00 ",5365,14600
+329,Williamsburg,Town,Hampshire,"$49,695.00 ","$93,438.00 ","$97,115.00 ",1168,2623
+330,Williamstown,Town,Berkshire,"$49,915.00 ","$86,780.00 ","$112,049.00 ",2242,7678
+331,Wilmington,Town,Middlesex,"$53,283.00 ","$117,909.00 ","$143,614.00 ",13808,36271
+332,Winchendon,Town,Worcester,"$40,192.00 ","$69,525.00 ","$93,286.00 ",3745,10371
+333,Winchester,Town,Middlesex,"$90,356.00 ","$184,844.00 ","$242,143.00 ",8149,22875
+334,Windsor,Town,Berkshire,"$55,548.00 ","$99,063.00 ","$121,875.00 ",392,984
+335,Winthrop,City,Suffolk,"$37,560.00 ","$95,682.00 ","$141,198.00 ","8, 539",19088
+336,Woburn,City,Middlesex,"$39,692.00 ","$68,274.00 ","$85,333.00 ",15165,40967
+337,Worcester,City,Worcester,"$30,855.00 ","$56,746.00 ","$71,265.00 ",78780,203867
+338,Worthington,Town,Hampshire,"$50,236.00 ","$86,023.00 ","$90,673.00 ",513,1048
+339,Wrentham,Town,Norfolk,"$62,721.00 ","$147,201.00 ","$165,308.00 ",4480,12077
+340,Yarmouth,Town,Barnstable,"$55,098.00 ","$107,853.00 ","$132,007.00 ",10704,24890
